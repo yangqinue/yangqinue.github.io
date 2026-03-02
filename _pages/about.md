@@ -17,16 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. student in the School of Computing at the University of Connecticut (UConn), 
+advised by Prof. 
+<a href="https://yhongcs.github.io/" target="_blank">Yuan Hong</a>, 
+since Spring 2023.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received my B.S. (2017) and M.S. (2020) in Electronic Engineering from the University of Electronic Science and Technology of China (UESTC).
 
-
-# 🔥 News 💬 
-- *2026.02*: &nbsp;🎉🎉 Presented our ongoing research as a poster at ABSURD 2026 (Annual Boston Security Usability Research Day).
-- *2025.07*: &nbsp;🎉🎉 One paper got accepted to ACM CCS '25.
-- *2025.05*: &nbsp;🎉🎉 I’m awarded the 2025 Predoctoral Reward.
-- *2023.01*: &nbsp;🎉🎉 New Student at UConn.
+# 🔥 News
+- *2026.02*: Presented our ongoing research as a poster at ABSURD 2026 (Annual Boston Security Usability Research Day).
+- *2025.09*: &nbsp;🎉🎉 Our paper was accepted to IEEE CSF 2025.
+- *2025.07*: &nbsp;🎉🎉 Our paper was accepted to ACM CCS 2025 (ACM Conference on Computer and Communications Security).
+- *2025.05*: Received the 2025 UConn Predoctoral Award.
+- *2023.01*: Joined the University of Connecticut as a Ph.D. student.
 
 # 📝 Publications 
 
@@ -44,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards  💬  -->
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
