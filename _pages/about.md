@@ -38,9 +38,11 @@ since Spring 2023.
   <a href="https://dl.acm.org/doi/epdf/10.1145/3719027.3765151" target="_blank">[PDF]</a> \| 
   <a href="https://zenodo.org/records/17335886" target="_blank">[Code]</a>
 
-- <span class="badge" style="vertical-align: top;">IEEE CSF 2026</span> **Lap_2: Revisiting Laplace DP-SGD for High Dimensions via Majorization Theory**  
-  Meisam Mohammady, **Qin Yang**, Nicholas Stout, Ayesha Samreen, Han Wang, Christopher J. Quinn, and Yuan Hong  
+- <span class="badge" style="vertical-align: top;">IEEE CSF 2026</span> **Lap2: Revisiting Laplace DP-SGD for High Dimensions via Majorization Theory**  
+  Meisam Mohammady, **Qin Yang**, Nicholas Stout, Ayesha Samreen, Han Wang, Christopher J. Quinn, and Yuan Hong
   *In Proceedings of the 39th IEEE Computer Security Foundations Symposium (CSF), Lisbon, Portugal, July 26-29, 2026.* \| [PDF] \| [Code]
+
+<small>\*Equal contribution</small>s
 
 # 📖 Educations
 - *2023.01 - present*, Ph.D. in Computer Science, University of Connecticut (UConn), Storrs, CT, USA.
