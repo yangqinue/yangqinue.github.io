@@ -45,7 +45,7 @@ since Spring 2023.
 <small>\*Equal contribution</small>s
 
 # 📖 Educations
-- *2023.01 - present*, Ph.D. in Computer Science, University of Connecticut (UConn), Storrs, CT, USA.
+- *2023.01 - present*, Ph.D. in Computer Science and Engineering, University of Connecticut (UConn), Storrs, CT, USA.
 - *2017.09 - 2020.06*, M.S. in Electronic Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China.
 - *2013.09 - 2017.06*, B.S. in Electronic Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China.
 
