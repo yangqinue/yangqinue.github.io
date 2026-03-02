@@ -9,6 +9,7 @@
 title                    : "Qin Yang"
 description              : "PhD. Student at UConn"
 repository               : "yangqinue/qinyang.github.io"
+favicon                  : "images/husky.png"
 google_scholar_stats_use_cdn : true
 
 # google analytics
