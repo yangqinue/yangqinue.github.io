@@ -40,7 +40,9 @@ since Spring 2023.
 
 - <span class="badge" style="vertical-align: top;">IEEE CSF 2026</span> **Lap2: Revisiting Laplace DP-SGD for High Dimensions via Majorization Theory**  
   Meisam Mohammady, **Qin Yang**, Nicholas Stout, Ayesha Samreen, Han Wang, Christopher J. Quinn, and Yuan Hong
-  *In Proceedings of the 39th IEEE Computer Security Foundations Symposium (CSF), Lisbon, Portugal, July 26-29, 2026.* \| [PDF] \| [Code]
+  *In Proceedings of the 39th IEEE Computer Security Foundations Symposium (CSF), Lisbon, Portugal, July 26-29, 2026.* \|
+  <a href="https://arxiv.org/pdf/2602.23516" target="_blank">[PDF]</a> \| 
+  <a href="https://github.com/datasec-lab/lap2" target="_blank">[Code]</a>
 
 <small>\*Equal contribution</small>s
 
