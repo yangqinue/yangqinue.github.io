@@ -53,4 +53,4 @@ since Spring 2023.
 - *2013.09 - 2017.06*, B.S. in Electronic Engineering, University of Electronic Science and Technology of China (UESTC), Chengdu, China.
 
 # 💻 Work Experience
-- *2020.07 - 2022.08*, Algorithm Engineer (Research Focus), iFlytek Research, iFLYTEK Co., Ltd., Hefei, China.
+- *2020.07 - 2022.08*, Research and Algorithm Engineer, iFlytek Research, iFLYTEK Co., Ltd., Hefei, China.
