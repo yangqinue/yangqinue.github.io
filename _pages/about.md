@@ -27,7 +27,7 @@ since Spring 2023.
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 Our work on human-perceptible adversarial attacks on LLM-powered content moderation systems (user studies were first incorporated directly into the attack design pipeline) is accepted to USENIX Security'26. Congrats!
 - *2026.02*: Presented our ongoing research as a poster at ABSURD 2026 (Annual Boston Security Usability Research Day).
-- *2025.10*: Our CCS'25 paper got three (Available, Functional/Reusable, Results Reproduced) badges for the artifacts <img src="{{ '/images/badge.png' | relative_url }}" alt="badge" width="80"> Congrats!
+- *2025.10*: Our CCS'25 paper got three (Available, Functional/Reusable, Results Reproduced) badges for the artifacts <img src="{{ '../images/badge.png' | relative_url }}" alt="badge" width="80"> Congrats!
 - *2025.09*: &nbsp;🎉🎉 Our paper was accepted to IEEE CSF 2026.
 - *2025.07*: &nbsp;🎉🎉 Our paper was accepted to ACM CCS 2025 (ACM Conference on Computer and Communications Security).
 - *2025.05*: Received the 2025 UConn Predoctoral Award.
