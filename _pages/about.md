@@ -41,17 +41,17 @@ since Spring 2023.
   <a href="yangqinue.github.io" target="_blank">[PDF]</a> \| 
   <a href="yangqinue.github.io" target="_blank">[Code]</a>
 
-- <span class="badge" style="vertical-align: top;">ACM CCS 2025</span> **PLRV-O: Advancing Differentially Private Deep Learning via Privacy Loss Random Variable Optimization**  
-  **Qin Yang\***, Nicholas Stout\*, Meisam Mohammady, Han Wang, Ayesha Samreen, Christopher Quinn, Yan Yan, Ashish Kundu, and Yuan Hong  
-  *In Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS), Taipei, Taiwan, October 13-17, 2025* (Acceptance Rate: 316/2,278 = 13.9%) \| 
-  <a href="https://dl.acm.org/doi/epdf/10.1145/3719027.3765151" target="_blank">[PDF]</a> \| 
-  <a href="https://zenodo.org/records/17335886" target="_blank">[Code]</a>
-
 - <span class="badge" style="vertical-align: top;">IEEE CSF 2026</span> **Lap2: Revisiting Laplace DP-SGD for High Dimensions via Majorization Theory**  
   Meisam Mohammady, **Qin Yang**, Nicholas Stout, Ayesha Samreen, Han Wang, Christopher J. Quinn, and Yuan Hong
   *In Proceedings of the 39th IEEE Computer Security Foundations Symposium (CSF), Lisbon, Portugal, July 26-29, 2026.* \|
   <a href="https://arxiv.org/pdf/2602.23516" target="_blank">[PDF]</a> \| 
   <a href="https://github.com/datasec-lab/lap2" target="_blank">[Code]</a>
+
+- <span class="badge" style="vertical-align: top;">ACM CCS 2025</span> **PLRV-O: Advancing Differentially Private Deep Learning via Privacy Loss Random Variable Optimization**  
+  **Qin Yang\***, Nicholas Stout\*, Meisam Mohammady, Han Wang, Ayesha Samreen, Christopher Quinn, Yan Yan, Ashish Kundu, and Yuan Hong  
+  *In Proceedings of the 32nd ACM Conference on Computer and Communications Security (CCS), Taipei, Taiwan, October 13-17, 2025* (Acceptance Rate: 316/2,278 = 13.9%) \| 
+  <a href="https://dl.acm.org/doi/epdf/10.1145/3719027.3765151" target="_blank">[PDF]</a> \| 
+  <a href="https://zenodo.org/records/17335886" target="_blank">[Code]</a>
 
 <small>\*Equal contribution</small>s
 
