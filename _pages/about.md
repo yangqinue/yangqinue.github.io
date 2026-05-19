@@ -25,13 +25,21 @@ I am a Ph.D. student in the School of Computing at the
 since Spring 2023.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Our work on human-perceptible adversarial attacks on LLM-powered content moderation systems (user studies were first incorporated directly into the attack design pipeline) is accepted to USENIX Security'26. Congrats!
 - *2026.02*: Presented our ongoing research as a poster at ABSURD 2026 (Annual Boston Security Usability Research Day).
+- *2025.10*: Our CCS'25 paper got three (Available, Functional/Reusable, Results Reproduced) badges for the artifacts <img src="../_images/badge.png" alt="badge"> Congrats!
 - *2025.09*: &nbsp;🎉🎉 Our paper was accepted to IEEE CSF 2026.
 - *2025.07*: &nbsp;🎉🎉 Our paper was accepted to ACM CCS 2025 (ACM Conference on Computer and Communications Security).
 - *2025.05*: Received the 2025 UConn Predoctoral Award.
 - *2023.01*: Joined the University of Connecticut as a Ph.D. student.
 
 # 📝 Publications
+
+- <span class="badge" style="vertical-align: top;">ACM CCS 2025</span> **What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks**  
+  **Qin Yang\***, Lu Malloy\*, Joshua Lee, Xiaohan Chang, Meisam Mohammady, Doowon Kim and Yuan Hong  
+  *In Proceedings of the 35th USENIX Security Symposium (USENIX Security), Baltimore, MD, USA, August 12-14, 2026* (Acceptance Rate: TBD) \| 
+  <a href="yangqinue.github.io" target="_blank">[PDF]</a> \| 
+  <a href="yangqinue.github.io" target="_blank">[Code]</a>
 
 - <span class="badge" style="vertical-align: top;">ACM CCS 2025</span> **PLRV-O: Advancing Differentially Private Deep Learning via Privacy Loss Random Variable Optimization**  
   **Qin Yang\***, Nicholas Stout\*, Meisam Mohammady, Han Wang, Ayesha Samreen, Christopher Quinn, Yan Yan, Ashish Kundu, and Yuan Hong  
