@@ -35,7 +35,7 @@ since Spring 2023.
 
 # 📝 Publications
 
-- <span class="badge" style="vertical-align: top;">ACM CCS 2025</span> **What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks**  
+- <span class="badge" style="vertical-align: top;">USENIX Security'26</span> **What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks**  
   **Qin Yang\***, Lu Malloy\*, Joshua Lee, Xiaohan Chang, Meisam Mohammady, Doowon Kim and Yuan Hong  
   *In Proceedings of the 35th USENIX Security Symposium (USENIX Security), Baltimore, MD, USA, August 12-14, 2026* (Acceptance Rate: TBD) \| 
   <a href="yangqinue.github.io" target="_blank">[PDF]</a> \| 
