@@ -25,6 +25,7 @@ I am a Ph.D. student in the School of Computing at the
 since Spring 2023.
 
 # 🔥 News
+- *2026.05*: Received the 2026 UConn Predoctoral Award.
 - *2026.05*: &nbsp;🎉🎉 Our work on human-perceptible adversarial attacks on LLM-powered content moderation systems (user studies were first incorporated directly into the attack design pipeline) is accepted to USENIX Security'26. Congrats!
 - *2026.02*: Presented our ongoing research as a poster at ABSURD 2026 (Annual Boston Security Usability Research Day).
 - *2025.10*: Our CCS'25 paper got three (Available, Functional/Reusable, Results Reproduced) badges for the artifacts <img src="{{ '../images/badge.png' | relative_url }}" alt="badge" width="80"> Congrats!
