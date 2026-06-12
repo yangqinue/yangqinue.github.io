@@ -39,8 +39,8 @@ since Spring 2023.
 - <span class="badge" style="vertical-align: top;">USENIX Security'26</span> **What the Eyes See, the LLMs Miss: Exploiting Human Perception for Adversarial Text Attacks**  
   **Qin Yang\***, Lu Malloy\*, Joshua Lee, Xiaohan Chang, Meisam Mohammady, Doowon Kim and Yuan Hong  
   *In Proceedings of the 35th USENIX Security Symposium (USENIX Security), Baltimore, MD, USA, August 12-14, 2026* (Acceptance Rate: TBD) \| 
-  <a href="yangqinue.github.io" target="_blank">[PDF]</a> \| 
-  <a href="yangqinue.github.io" target="_blank">[Code]</a>
+  <a href="https://arxiv.org/abs/2606.09700" target="_blank">[PDF]</a> \| 
+  <a href="https://github.com/datasec-lab/hpaa" target="_blank">[Code]</a>
 
 - <span class="badge" style="vertical-align: top;">IEEE CSF 2026</span> **Lap2: Revisiting Laplace DP-SGD for High Dimensions via Majorization Theory**  
   Meisam Mohammady, **Qin Yang**, Nicholas Stout, Ayesha Samreen, Han Wang, Christopher J. Quinn, and Yuan Hong
