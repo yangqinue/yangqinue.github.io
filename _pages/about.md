@@ -57,7 +57,7 @@ since Spring 2023.
   <a href="https://dl.acm.org/doi/epdf/10.1145/3719027.3765151" target="_blank">[PDF]</a> \| 
   <a href="https://zenodo.org/records/17335886" target="_blank">[Code]</a>
 
-<small>\*Equal contribution</small>s
+<small>\*Equal contributions</small>
 
 # 📖 Educations
 - *2023.01 - present*, Ph.D. in Computer Science and Engineering, University of Connecticut (UConn), Storrs, CT, USA.
