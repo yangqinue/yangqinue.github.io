@@ -21,8 +21,28 @@ I am a Ph.D. student in the School of Computing at the
 <a href="https://uconn.edu/" target="_blank">University of Connecticut</a> 
 (UConn), advised by 
 <a href="https://yhongcs.github.io/" target="_blank">Prof. Yuan Hong</a> and co-advised by 
-<a href="https://meisamcs.github.io/" target="_blank">Prof. Meisam Mohammady</a>,
-since Spring 2023.
+<a href="https://meisamcs.github.io/" target="_blank">Prof. Meisam Mohammady</a>.
+
+<p>
+I am a Ph.D. student in the School of Computing at the
+<a href="https://uconn.edu/" target="_blank">University of Connecticut</a>
+(UConn), advised by
+<a href="https://yhongcs.github.io/" target="_blank">Prof. Yuan Hong</a>
+and co-advised by
+<a href="https://meisamcs.github.io/" target="_blank">Prof. Meisam Mohammady</a>.
+</p>
+
+<p>
+My research focuses on AI security and privacy, with an emphasis on adversarial attacks against large language models and differentially private machine learning. I am particularly interested in understanding and mitigating privacy risks in AI agents, including how everyday interactions can expose sensitive personal information through indirect inference.
+</p>
+
+<p>
+Previously, I worked as a Research and Algorithm Engineer at iFlytek, developing speech recognition and assessment systems, as well as speech-based systems for disease detection. I received my M.S. and B.S. in Electronic Engineering from the University of Electronic Science and Technology of China.
+</p>
+
+<p>
+I expect to graduate in <strong>May 2027</strong>, with flexibility in my graduation timeline, and am seeking <strong>research internships and full-time opportunities in 2027</strong> in AI security, privacy, and trustworthy machine learning.
+</p>
 
 # 🔥 News
 - *2026.07*: Our USENIX Security'26 paper got three (Available, Functional/Reusable, Results Reproduced) badges for the artifacts <img src="{{ '/images/usenixbadges-available-v2.png' | relative_url }}" width="55">
