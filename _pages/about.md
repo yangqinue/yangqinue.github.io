@@ -17,12 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the School of Computing at the 
-<a href="https://uconn.edu/" target="_blank">University of Connecticut</a> 
-(UConn), advised by 
-<a href="https://yhongcs.github.io/" target="_blank">Prof. Yuan Hong</a> and co-advised by 
-<a href="https://meisamcs.github.io/" target="_blank">Prof. Meisam Mohammady</a>.
-
 <p>
 I am a Ph.D. student in the School of Computing at the
 <a href="https://uconn.edu/" target="_blank">University of Connecticut</a>
